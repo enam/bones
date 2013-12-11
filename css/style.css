@@ -1,0 +1,15 @@
+body{
+	min-width: 320px;
+	font-family: sans-serif;
+}
+#map{
+	position: absolute;;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	z-index: -1;
+}
+.leaflet-top {
+    top: 75px;
+}
